@@ -1,0 +1,9 @@
+create folder 65c21
+move file a0492.txt to folder 65c21
+delete file c8669.txt
+print out file 7f7c3.txt
+go into folder 65c21
+print out directory contents 65c21
+print help for remove command 
+rename file 4e961.txt to 29deb.txt
+create file 51ee3.txt

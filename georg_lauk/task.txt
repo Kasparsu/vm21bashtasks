@@ -1,0 +1,9 @@
+print out directory contents e70e2
+print out file bfa92.txt
+delete file 118ba.txt
+move file a4ff0.txt to folder e70e2
+print help for navigate to folder command 
+rename file a00c3.txt to 306a3.txt
+go into folder e70e2
+create folder 908b5
+create file 9b9b7.txt

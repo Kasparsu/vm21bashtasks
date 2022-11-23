@@ -1,0 +1,9 @@
+delete file f1f0d.txt
+create folder 9a9af
+create file adbf7.txt
+print help for remove command 
+print out file adbf7.txt
+go into folder 9a9af
+move file adbf7.txt to folder 9a9af
+print out directory contents 9a9af
+rename file 2a81f.txt to 8dbbc.txt

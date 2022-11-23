@@ -1,0 +1,9 @@
+print out file 0639b.txt
+print out directory contents 34fc5
+move file 33984.txt to folder 34fc5
+go into folder 34fc5
+create folder d7a31
+rename file 6914c.txt to a5d5d.txt
+create file 04e69.txt
+print help for move command 
+delete file 04e69.txt

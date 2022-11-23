@@ -1,0 +1,9 @@
+print help for remove command 
+go into folder a360b
+rename file 79a5a.txt to 47bb1.txt
+create folder 825ae
+print out file 47bb1.txt
+move file 47bb1.txt to folder a360b
+delete file ca4fe.txt
+create file ec320.txt
+print out directory contents 825ae

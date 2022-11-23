@@ -1,0 +1,9 @@
+print help for remove command 
+rename file beb73.txt to 82fa0.txt
+create folder 1cbf3
+move file 82fa0.txt to folder 1cbf3
+go into folder 1cbf3
+print out directory contents 1cbf3
+delete file ef11f.txt
+print out file 27db7.txt
+create file a4d49.txt

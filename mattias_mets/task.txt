@@ -1,0 +1,9 @@
+create folder 47d9b
+delete file 3844b.txt
+print help for print out file command 
+print out directory contents 47d9b
+print out file adffc.txt
+move file 32e3a.txt to folder 47d9b
+create file ba2e9.txt
+rename file ba2e9.txt to 87e04.txt
+go into folder 47d9b

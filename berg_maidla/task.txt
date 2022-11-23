@@ -1,0 +1,9 @@
+move file 30a8f.txt to folder f0296
+create folder e8924
+print help for print out file command 
+delete file c0608.txt
+print out directory contents e8924
+print out file f911c.txt
+rename file e7bd4.txt to e69c0.txt
+go into folder f0296
+create file 27005.txt

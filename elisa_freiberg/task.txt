@@ -1,0 +1,9 @@
+create folder bbc0d
+print out directory contents bbc0d
+go into folder bbc0d
+print out file 93995.txt
+print help for navigate to folder command 
+rename file ebd40.txt to 6f2b7.txt
+create file 9773f.txt
+delete file 6f2b7.txt
+move file 9773f.txt to folder bbc0d

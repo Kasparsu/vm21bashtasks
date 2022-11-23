@@ -1,0 +1,9 @@
+print out file 537d9.txt
+go into folder cd042
+create file cd78d.txt
+delete file cd78d.txt
+move file 45054.txt to folder cd042
+rename file 4400d.txt to f3a60.txt
+print out directory contents cd042
+create folder 221e7
+print help for navigate to folder command 

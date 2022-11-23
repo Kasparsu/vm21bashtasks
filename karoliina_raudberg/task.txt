@@ -1,0 +1,9 @@
+print out file 91734.txt
+print out directory contents 83f67
+print help for remove command 
+rename file 4d6c8.txt to 81c2c.txt
+delete file 81c2c.txt
+move file 496a5.txt to folder 83f67
+create folder e92c7
+create file 0b106.txt
+go into folder e92c7

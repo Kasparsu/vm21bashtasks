@@ -1,0 +1,9 @@
+create folder 39118
+go into folder 39118
+move file ba152.txt to folder 39118
+print help for move command 
+rename file 4fce5.txt to 61ab1.txt
+delete file 61ab1.txt
+print out file 5a346.txt
+create file b5b1a.txt
+print out directory contents 39118

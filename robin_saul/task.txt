@@ -1,0 +1,9 @@
+print out directory contents 500f2
+create file 271e7.txt
+delete file 271e7.txt
+go into folder 500f2
+print help for remove command 
+print out file 852d2.txt
+move file d0a08.txt to folder 500f2
+create folder 35696
+rename file 32c41.txt to 5b620.txt

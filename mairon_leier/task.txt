@@ -1,0 +1,9 @@
+create file ad5b5.txt
+create folder 1f7dc
+move file ad5b5.txt to folder 1f7dc
+delete file e64c5.txt
+print out directory contents 1f7dc
+print help for navigate to folder command 
+rename file 59ac5.txt to 3aca9.txt
+go into folder 1f7dc
+print out file 3aca9.txt

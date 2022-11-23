@@ -1,0 +1,9 @@
+create file ab38c.txt
+print help for navigate to folder command 
+move file ab38c.txt to folder 1ed6b
+print out file be327.txt
+create folder bd60e
+go into folder bd60e
+rename file 44ffe.txt to 8e8d4.txt
+print out directory contents 1ed6b
+delete file 8e8d4.txt

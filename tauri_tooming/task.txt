@@ -1,0 +1,9 @@
+delete file e45b1.txt
+create file 14537.txt
+rename file 14537.txt to dc8db.txt
+print help for remove command 
+print out directory contents 70eff
+go into folder 70eff
+print out file dc8db.txt
+create folder 72529
+move file dc8db.txt to folder 70eff

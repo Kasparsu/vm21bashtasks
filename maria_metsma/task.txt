@@ -1,0 +1,9 @@
+print out directory contents d2f0c
+print help for print out file command 
+delete file e341a.txt
+move file a1c7d.txt to folder d2f0c
+create file 10d76.txt
+go into folder d2f0c
+rename file 10d76.txt to 95b1f.txt
+create folder 21c32
+print out file 95b1f.txt

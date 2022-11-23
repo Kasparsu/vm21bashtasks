@@ -1,0 +1,9 @@
+print out file 124ed.txt
+delete file d707f.txt
+print out directory contents 3abc0
+go into folder 3abc0
+create folder 26ba5
+rename file bed1f.txt to 5b46b.txt
+create file abcc3.txt
+print help for navigate to folder command 
+move file abcc3.txt to folder 26ba5

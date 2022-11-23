@@ -1,0 +1,9 @@
+create file aba98.txt
+delete file aba98.txt
+print out directory contents ed9f5
+print help for navigate to folder command 
+print out file 3364b.txt
+rename file 3c88f.txt to 66e63.txt
+create folder 65649
+move file 66e63.txt to folder ed9f5
+go into folder 65649

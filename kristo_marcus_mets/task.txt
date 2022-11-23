@@ -1,0 +1,9 @@
+move file a77dd.txt to folder 16a3a
+go into folder 16a3a
+print help for print out file command 
+print out file dfc50.txt
+delete file ae044.txt
+rename file afb1b.txt to 9e1e6.txt
+create folder 1684a
+create file fd548.txt
+print out directory contents 16a3a

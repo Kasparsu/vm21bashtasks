@@ -1,0 +1,9 @@
+print out directory contents 1daaf
+create folder 85e16
+go into folder 1daaf
+print out file a7d4a.txt
+delete file c123e.txt
+move file 65578.txt to folder 85e16
+print help for remove command 
+rename file 39620.txt to 80c1e.txt
+create file 1005a.txt

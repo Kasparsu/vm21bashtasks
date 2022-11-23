@@ -1,0 +1,9 @@
+delete file 772bc.txt
+rename file aa628.txt to 37bd3.txt
+move file 37bd3.txt to folder bc25c
+print out directory contents bc25c
+create folder 023d1
+print help for navigate to folder command 
+go into folder 023d1
+create file 89ca7.txt
+print out file 89ca7.txt

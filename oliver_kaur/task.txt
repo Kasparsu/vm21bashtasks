@@ -1,0 +1,9 @@
+move file 084b0.txt to folder a8359
+delete file df9ee.txt
+print help for navigate to folder command 
+rename file c3517.txt to c0f5f.txt
+print out file c0f5f.txt
+create file 01f48.txt
+print out directory contents a8359
+go into folder a8359
+create folder 2f617

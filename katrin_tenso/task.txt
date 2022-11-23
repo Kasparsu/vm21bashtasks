@@ -1,0 +1,9 @@
+rename file ab073.txt to 31fa8.txt
+print out file 31fa8.txt
+print out directory contents e0930
+create file 8569a.txt
+delete file 31fa8.txt
+create folder 50c2a
+move file 8569a.txt to folder e0930
+go into folder e0930
+print help for remove command 

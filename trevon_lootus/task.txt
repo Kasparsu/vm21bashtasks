@@ -1,0 +1,9 @@
+print out directory contents 1173a
+move file 878ca.txt to folder 1173a
+create folder a9b19
+print out file 5b981.txt
+create file 4d75f.txt
+print help for print out file command 
+rename file 4d75f.txt to 47f9b.txt
+go into folder 1173a
+delete file 47f9b.txt
